@@ -1,0 +1,13 @@
+git status --> to see the status of the current file
+touch <file name> --> creat a empty file in the folder
+git add <file name> --> transfor a file from untracked mode to staged mode
+git add -A --> add all files of a folder to staged mode
+git commit --> commit the changes of a file
+(after commit command it will redirect to another terminal there press 'i' to mentaion the comment to the commit after this press 'esc' then enter ':wq' to exit.)
+git commit -m<"message"> --> commit all files at a time without redirecting to another terminal
+git checkout <file name> --> transfor the file to it's last commit state.
+git checkout -f --> transfor all file of that folder to there last commit state a time.
+git log --> shows all commit's details that are perfomed on that folder.
+git log -p -1 --> shows the only last commit along with "git diff".
+git diff --> shows the difference between working tree and staged area.
+git diff --staged --> shows the difference between working tree and last commit.  

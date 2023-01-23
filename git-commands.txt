@@ -10,4 +10,4 @@ git checkout -f --> transfor all file of that folder to there last commit state 
 git log --> shows all commit's details that are perfomed on that folder.
 git log -p -1 --> shows the only last commit along with "git diff".
 git diff --> shows the difference between working tree and staged area.
-git diff --staged --> shows the difference between working tree and last commit.  
+git diff --staged --> shows the difference between staged area and last commit.  

@@ -25,3 +25,5 @@ git log -p -1 ==> shows the only last commit along with "git diff".
 git diff ==> shows the difference between working tree and staged area.
 git diff --staged ==> shows the difference between staged area and last commit.
 
+git rm --cached <filename> ==> It is used to remove the file from the staged area.
+git rm <filename> ==> It is used to remove the file from the staged area as well as delet the file from the hard drive.

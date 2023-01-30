@@ -10,6 +10,6 @@ ignore/
 ##ignore the whole directory
 
 *.log
-##ignore all .log fils 
+##ignore all .log fils
 *.cpp
 ##ignore all .cpp fils

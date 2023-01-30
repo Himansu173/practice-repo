@@ -6,8 +6,10 @@ mylog.log
 
 logs/this.log 
 ##ignors the specific file in the other directory
+ignore/
+##ignore the whole directory
 
 *.log
 ##ignore all .log fils 
 *.cpp
-##ignore all .cpp fils 
+##ignore all .cpp fils

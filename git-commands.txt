@@ -14,6 +14,7 @@ git add -A ==> add all files of a folder to staged mode
 git commit ==> commit the changes of a file
 (after commit command it will redirect to another terminal there press 'i' to mentaion the comment to the commit after this press 'esc' then enter ':wq' to exit.
 git commit -m<"message"> ==> commit all files at a time without redirecting to another terminal
+git commit -a -m "message" ==> Used to commit a file without add it to staged area.
 
 git checkout <file name> ==> transfor the file to it's last commit state.
 git checkout -f ==> transfor all file of that folder to there last commit state at a time.

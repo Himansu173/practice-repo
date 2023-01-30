@@ -1,0 +1,13 @@
+mylog.log
+##ignore all the mylog.log file even in the other directory
+
+# /mylog.log
+##ignore only mylog.log file that is present in the same directory
+
+logs/this.log 
+##ignors the specific file in the other directory
+
+*.log
+##ignore all .log fils 
+*.cpp
+##ignore all .cpp fils 

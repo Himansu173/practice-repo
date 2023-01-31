@@ -34,3 +34,5 @@ git rm <filename> ==> It is used to remove the file from the staged area as well
 The primery branch is named as "master" branch.
 git branch <new branch name> ==> creat a new branch of the current branch.(changes in new branch does not affect the master branch)
 git branch ==> show the list of branches.
+git checkout <branch name> ==> use to switch over the branches.
+git marge <branch name> ==> marge the branch to the current branch.

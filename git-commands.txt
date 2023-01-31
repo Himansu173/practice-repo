@@ -1,6 +1,8 @@
 git config user.name "name" ==> is used to change the use name
 git config user.name ==> is used to get the use name
 
+q ==> quit.
+
 git config user.emial "emial" ==> is used to change the use emial
 git config user.emial ==> is used to get the use emial
 

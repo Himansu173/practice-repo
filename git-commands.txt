@@ -30,3 +30,4 @@ git rm --cached <filename> ==> It is used to remove the file from the staged are
 git rm <filename> ==> It is used to remove the file from the staged area as well as delet the file from the hard drive.
 
 .gitignore file ==> it contains all the name of the file or folder that should be ignored by the git.
+
